@@ -15,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Setup Folders
+
+ 1. Copy the files in assets folder into the game backup directory (eg:-D:/Games/)
+ 2. Run flutter run command and select windows.
+ 3. Edit the game backup directory in all 3 files when changing directories.(python file,config file,dart file)
