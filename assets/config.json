@@ -1,0 +1,45 @@
+{
+    "backup_destination": "D:/Games",
+    "games": [
+        {
+            "name": "Ghost_Recon_Wildlands",
+            "path": "C:/ProgramData/Tom Clancy's Ghost Recon Wildlands",
+            "last_hash": "ca295d47093aad1b94e3b49fc21a27d7",
+            "last_backup": "2026-03-14 07:22:46",
+            "last_zipped": "2026-03-14 07:22:43",
+            "size": "352.91 KB"
+        },
+        {
+            "name": "Ghost_Of_Tsushima",
+            "path": "C:/Users/K.G.S.Aman/Documents/Ghost of Tsushima DIRECTOR'S CUT",
+            "last_hash": "9938a74c00545217cfefb09a760ece53",
+            "last_backup": "2026-03-14 07:17:45",
+            "last_zipped": "2026-03-14 07:17:34",
+            "size": "11.98 MB"
+        },
+        {
+            "name": "EldenRing",
+            "path": "C:\\Users\\K.G.S.Aman\\AppData\\Roaming\\EldenRing",
+            "last_hash": "5282ef9829b63854c8fcc0e8598e61ba",
+            "last_backup": "2026-03-14 07:07:03",
+            "last_zipped": "2026-03-14 07:07:03",
+            "size": "55.25 MB"
+        },
+        {
+            "name": "Assasin's Creed Syndicate",
+            "path": "C:\\Users\\K.G.S.Aman\\AppData\\Roaming\\uplay\\CODEX\\Saves\\AssassinsCreedSyndicate",
+            "last_hash": "728473664927e580be630ffae6d882ed",
+            "last_backup": "2026-03-14 07:07:03",
+            "last_zipped": "2026-03-14 07:07:03",
+            "size": "31.75 KB"
+        },
+        {
+            "name": "AssasinsCreedOddessy",
+            "path": "C:\\Users\\K.G.S.Aman\\AppData\\Roaming\\uplay_emu\\EMPRESS\\5059",
+            "last_hash": "3c6ab6e801e3010dc18026cde30f04d0",
+            "last_backup": "2026-03-14 07:24:25",
+            "last_zipped": "2026-03-14 07:24:25",
+            "size": "18.24 MB"
+        }
+    ]
+}
