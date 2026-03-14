@@ -21,3 +21,7 @@ samples, guidance on mobile development, and a full API reference.
  1. Copy the files in assets folder into the game backup directory (eg:-D:/Games/)
  2. Run flutter run command and select windows.
  3. Edit the game backup directory in all 3 files when changing directories.(python file,config file,dart file)
+
+## App Screenshots
+
+
